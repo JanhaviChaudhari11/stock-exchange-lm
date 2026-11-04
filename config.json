@@ -1,0 +1,20 @@
+{
+  "vocab_size": 4000,
+  "seq_len": 128,
+  "d_model": 256,
+  "n_heads": 8,
+  "n_layers": 6,
+  "d_ff": 1024,
+  "dropout": 0.1,
+  "batch_size": 64,
+  "epochs": 30,
+  "learning_rate": 0.0003,
+  "min_lr": 3e-05,
+  "warmup_steps": 200,
+  "weight_decay": 0.01,
+  "val_fraction": 0.1,
+  "stride": 64,
+  "patience": 4,
+  "checkpoint_dir": "checkpoints",
+  "history_path": "checkpoints/training_history.json"
+}

@@ -1,0 +1,6 @@
+tensorflow>=2.15
+tokenizers>=0.15
+datasets>=2.18
+huggingface_hub>=0.20
+flask>=3.0
+numpy

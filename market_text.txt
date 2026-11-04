@@ -1,0 +1,43 @@
+A stock exchange is a regulated marketplace where shares of listed companies are bought and sold. By bringing many buyers and sellers to one venue, the exchange helps the market discover a fair price and gives investors the ability to sell their holdings quickly when they need cash.
+
+When a company wants to raise money from the public for the first time, it holds an initial public offering. Investment banks underwrite the offering, help set the issue price, and allocate shares to institutional and retail investors. After the listing, the shares trade freely on the secondary market and the company receives no further money from those trades.
+
+The price of a share moves with supply and demand. If more investors want to buy than to sell at the current price, buyers must bid higher and the price rises. If sellers outnumber buyers, they must accept lower offers and the price falls. News about earnings, interest rates and the wider economy constantly shifts that balance.
+
+Every listed share has a bid price and an ask price. The bid is the highest price a buyer is willing to pay, and the ask is the lowest price a seller will accept. The gap between them is called the spread. Heavily traded large-cap stocks usually have a narrow spread, while thinly traded small companies can have a wide one.
+
+A market order buys or sells immediately at the best available price. A limit order sets a maximum purchase price or a minimum sale price and only executes if the market reaches that level. A stop-loss order turns into a market order once the price falls to a chosen level, which helps investors limit losses on a position.
+
+Market capitalisation is the share price multiplied by the number of shares outstanding. Companies are often grouped into large-cap, mid-cap and small-cap categories. Large-cap companies tend to be more stable, while small-cap companies can grow faster but usually carry more risk and more volatile share prices.
+
+A stock index tracks the performance of a basket of shares. The S&P 500 follows five hundred large American companies, the Nasdaq Composite is weighted toward technology, and the Dow Jones Industrial Average contains thirty well-known firms. In India, the Sensex tracks thirty companies on the Bombay Stock Exchange and the Nifty 50 tracks fifty companies on the National Stock Exchange.
+
+A bull market is a long period of rising prices and strong investor confidence. A bear market is usually defined as a fall of twenty percent or more from a recent peak. A correction is a smaller decline of around ten percent, and markets often go through several corrections during a long bull run.
+
+Quarterly earnings reports are among the most important events for a listed company. The report shows revenue, operating profit, net profit and earnings per share for the period. Analysts compare these figures with their forecasts, and a company that beats expectations often sees its share price rise, while a miss can send the shares sharply lower.
+
+The price-to-earnings ratio divides the share price by earnings per share. A high ratio suggests that investors expect strong future growth, while a low ratio may signal that a company is undervalued or that the market doubts its prospects. Investors also look at price-to-book value, dividend yield and return on equity.
+
+Many companies return part of their profits to shareholders as dividends. The dividend yield is the annual dividend divided by the share price. Mature companies with steady cash flow, such as utilities and consumer staples, often pay regular dividends, while fast-growing technology companies usually reinvest their profits instead.
+
+Central banks influence stock markets through interest rates. When the central bank raises rates to control inflation, borrowing becomes more expensive, company profits can slow and future earnings are worth less today, so share prices often fall. When rates are cut, cheaper credit tends to support higher valuations.
+
+Bonds are loans to governments or companies that pay a fixed interest rate called the coupon. Bond prices move in the opposite direction to interest rates. When yields rise, existing bonds lose value, and investors may move money out of shares and into bonds because the safe return has become more attractive.
+
+Diversification means spreading money across many companies, sectors and asset classes so that a loss in one holding does not destroy the whole portfolio. Index funds and exchange-traded funds make diversification cheap, because a single purchase gives exposure to hundreds of companies at once.
+
+Volatility measures how much a price moves up and down. The VIX index, sometimes called the fear gauge, reflects the volatility that options traders expect in the S&P 500 over the next month. A sudden jump in the VIX usually means that investors are nervous and are paying more to protect their portfolios.
+
+Derivatives are contracts whose value depends on another asset. A futures contract is an agreement to buy or sell an asset at a fixed price on a future date. An option gives the holder the right, but not the obligation, to buy or sell at a set strike price. Traders use derivatives both to hedge risk and to speculate.
+
+Short selling is a bet that a share price will fall. The trader borrows shares, sells them at the current price and hopes to buy them back later at a lower price. If the price rises instead, the losses can be large, and a rapid rise that forces many short sellers to buy back at once is called a short squeeze.
+
+Securities regulators protect investors and keep markets fair. In the United States the Securities and Exchange Commission oversees the exchanges, and in India the Securities and Exchange Board of India plays that role. Regulators require companies to publish accurate financial statements and they prosecute insider trading.
+
+Algorithmic trading uses computer programs to place orders automatically based on price, timing and volume. High-frequency trading firms execute thousands of orders per second and profit from tiny price differences. Today a large share of daily volume on major exchanges is generated by algorithms rather than by people.
+
+Mergers and acquisitions can move share prices sharply. When one company announces that it will buy another, the target's shares usually jump toward the offer price, while the buyer's shares may fall if investors think it is paying too much. Regulators may review large deals to make sure they do not reduce competition.
+
+Market sentiment describes the overall mood of investors. Positive news such as strong economic growth, rising profits and falling inflation tends to lift prices, while negative news such as layoffs, profit warnings and geopolitical tension can trigger a sell-off. Sentiment can change quickly and markets often overreact in the short term.
+
+Over long periods, stock prices have tended to follow company earnings. Investors who stay invested through downturns, reinvest their dividends and avoid trying to time the market have historically earned better returns than those who trade frequently in reaction to every headline.
