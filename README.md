@@ -24,7 +24,6 @@ Sample outputs:
 
 The model learns the style and structure of financial news well, but not facts or arithmetic. It can write "decreased" next to a number that went up. That's expected at this scale and is why it must never be used for real decisions.
 
-![Training charts](screenshots/demo-training-charts.png)
 
 ## How it works
 
