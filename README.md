@@ -4,7 +4,6 @@ A small GPT-style (decoder-only) transformer built from scratch in TensorFlow/Ke
 
 > Educational project. The generated text is not financial advice.
 
-![Live generation](screenshots/demo-generation.png)
 
 ## Results
 
