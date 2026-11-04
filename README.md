@@ -103,5 +103,6 @@ Financial PhraseBank: P. Malo, A. Sinha, P. Korhonen, J. Wallenius, P. Takala. *
 
 ---
 
-Built by Janhavi Chaudhari · [GitHub](https://github.com/) · [LinkedIn](https://www.linkedin.com/)
+Built by Janhavi Chaudhari · 
+
 <!-- Replace the two links above with your own profile URLs. -->
